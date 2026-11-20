@@ -1,48 +1,129 @@
-### Profile Views
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NabilEkoWahyudi&color=orange&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Nabil%20Eko%20Wahyudi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58" alt="Nabil Eko Wahyudi" />
 
-# Nabil Eko Wahyudi
+<a href="https://nabilekowahyudi-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=Building+tools+from+scratch;CLI+agents+%26+real-time+dashboards;TypeScript+%7C+Vue+%7C+Node.js;Open+to+opportunities" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F97316&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%7C+Informatics+Student;TypeScript+%7C+Vue+%7C+Node.js;Building+tools+from+scratch)](https://nabilekowahyudi-portfolio.vercel.app/)
+<br />
 
-Informatics student at Universitas Putera Batam who likes building tools from scratch, from a CLI coding agent to a real-time open-source intelligence dashboard, using TypeScript, Vue, and Node.js.
+<a href="https://nabilekowahyudi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nabil-eko-wahyudi-383580374/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@nabilekowahyud1"><img src="https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:nabilekowahyudi935@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-Also interested in Linux, security fundamentals, and writing clean, well-documented code with disciplined Git habits.
+<br /><br />
 
-Got a question about a project or want to collaborate? Reach out at <nabilekowahyudi935@gmail.com>.
+<img src="https://komarev.com/ghpvc/?username=NabilEkoWahyudi&label=Profile+Views&color=F97316&style=flat-square" alt="Profile Views" />
 
----
-
-### Tech Stack
-
-[![Tech Stack](https://skillicons.dev/icons?i=ts,js,vue,nuxt,tailwind,css,nodejs,express,bash,postgres,mysql,git,github,linux,vercel)](https://skillicons.dev)  
-[![Also used](https://skillicons.dev/icons?i=py,php,java,go,cpp,dotnet)](https://skillicons.dev)
-
-### Stats
-
-[![Nabil's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NabilEkoWahyudi&theme=github_dark)](https://github.com/NabilEkoWahyudi)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NabilEkoWahyudi&theme=github_dark)](https://github.com/NabilEkoWahyudi?tab=repositories)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NabilEkoWahyudi&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://github.com/NabilEkoWahyudi)
-
-![Contribution Snake](https://raw.githubusercontent.com/NabilEkoWahyudi/NabilEkoWahyudi/output/github-snake-dark.svg)
+</div>
 
 ---
 
-### Featured Projects
+<h2 align="center">About Me</h2>
 
-- **[eco-agent](https://github.com/NabilEkoWahyudi/eco-agent)** - extensible CLI coding agent for your terminal, built from scratch in TypeScript. Multi-provider LLM support (Groq, Ollama, OpenRouter), plugin system, MCP integration, swarm mode, and session memory.
-- **[MONITOR OSINT](https://github.com/NabilEkoWahyudi/MONITOR-OSINT)** - real-time open-source intelligence dashboard: maps, flights, earthquakes, macroeconomics, and live media. Vue 3, Pinia, Vite, Leaflet, Node.js, Express, Socket.io.
-- **[PaperTrade DEX](https://nabilekowahyudi-portfolio.vercel.app/projects/papertrade-dex)** - Solana paper-trading with live market prices: LONG/SHORT positions with 1-100x leverage and real-time PnL. Nuxt, Vue 3, TypeScript, Pinia, Tailwind.
-- **[CS-Bot-with-AI](https://github.com/NabilEkoWahyudi/CS-Bot-with-AI)** - AI-powered customer service bot with a Vue frontend.
+<p align="center">
+  Informatics student at <b>Universitas Putera Batam</b> based in Batam, Indonesia.<br />
+  I like building tools from scratch, from a CLI coding agent to a real-time open-source intelligence dashboard,<br />
+  with TypeScript, Vue, and Node.js. I care about strict code, small disciplined commits, and living documentation.
+</p>
 
-For more, feel free to explore my [public repositories](https://github.com/NabilEkoWahyudi?tab=repositories) or the [full project list](https://nabilekowahyudi-portfolio.vercel.app/projects).
+<h2 align="center">Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,php,java,go,cpp,dotnet,css" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql" alt="Backend and Database" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,bash,vercel" alt="Tools" /></td>
+  </tr>
+</table>
 
 ---
 
-### Links
+<h2 align="center">Featured Projects</h2>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F97316?style=flat-square&logo=googlechrome&logoColor=white)](https://nabilekowahyudi-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-eko-wahyudi-383580374/)
-[![Medium](https://img.shields.io/badge/-Medium-181717?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nabilekowahyud1)
-[![Repositories](https://img.shields.io/badge/-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NabilEkoWahyudi?tab=repositories)
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NabilEkoWahyudi/eco-agent">eco-agent</a></h3>
+      Extensible CLI coding agent for the terminal, built from scratch. Multi-provider LLM support (Groq, Ollama, OpenRouter), plugin system, MCP integration, swarm mode, and session memory.
+      <br /><br />
+      <sub><code>TypeScript</code> <code>Node.js</code> <code>MCP</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NabilEkoWahyudi/MONITOR-OSINT">MONITOR OSINT</a></h3>
+      Real-time open-source intelligence dashboard: maps, flights, earthquakes, macroeconomics, and live media in one view.
+      <br /><br />
+      <sub><code>Vue 3</code> <code>Pinia</code> <code>Vite</code> <code>Leaflet</code> <code>Express</code> <code>Socket.io</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://nabilekowahyudi-portfolio.vercel.app/projects/papertrade-dex">PaperTrade DEX</a></h3>
+      Solana paper-trading with live market prices: LONG/SHORT positions with 1-100x leverage and real-time PnL.
+      <br /><br />
+      <sub><code>Nuxt</code> <code>Vue 3</code> <code>TypeScript</code> <code>Pinia</code> <code>Tailwind</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NabilEkoWahyudi/CS-Bot-with-AI">CS-Bot-with-AI</a></h3>
+      AI-powered customer service bot with a Vue frontend.
+      <br /><br />
+      <sub><code>Vue</code> <code>AI</code></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/NabilEkoWahyudi?tab=repositories">All repositories</a> ·
+  <a href="https://nabilekowahyudi-portfolio.vercel.app/projects">Full project list</a>
+</p>
+
+---
+
+<h2 align="center">Experience</h2>
+
+<table align="center">
+  <tr>
+    <td><b>Mar 2026 - Sep 2026</b></td>
+    <td><b>Software Engineer Intern</b>, PT PLN Batam<br /><sub>Built a ServiceDesk chatbot integrated with ManageEngine ServiceDesk Plus.</sub></td>
+  </tr>
+  <tr>
+    <td><b>2025/2026</b></td>
+    <td><b>Chairman</b>, Himpunan Mahasiswa Teknik Informatika<br /><sub>Universitas Putera Batam</sub></td>
+  </tr>
+  <tr>
+    <td><b>2024 - Present</b></td>
+    <td><b>Informatics Student</b>, Universitas Putera Batam<br /><sub>Building personal projects alongside coursework.</sub></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NabilEkoWahyudi&theme=github_dark" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NabilEkoWahyudi&theme=github_dark" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NabilEkoWahyudi&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="70%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NabilEkoWahyudi/NabilEkoWahyudi/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer" width="100%" alt="" />
