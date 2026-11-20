@@ -1,20 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=Nabil%20Eko%20Wahyudi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58" alt="Nabil Eko Wahyudi" />
-
-<a href="https://nabilekowahyudi-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=F97316&center=true&vCenter=true&width=520&lines=Building+tools+from+scratch;CLI+agents+%26+real-time+dashboards;TypeScript+%7C+Vue+%7C+Node.js;Open+to+opportunities" alt="Typing SVG" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=150&section=header&text=Nabil%20Eko%20Wahyudi&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student&descSize=15&descAlignY=68" width="100%" alt="Nabil Eko Wahyudi" />
+<a href="https://nabilekowahyudi-portfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=F97316&center=true&vCenter=true&width=520&height=36&lines=Building+tools+from+scratch;CLI+agents+%26+real-time+dashboards;TypeScript+%7C+Vue+%7C+Node.js;Open+to+opportunities" alt="Typing SVG" /></a>
 <br />
-
 <a href="https://nabilekowahyudi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nabil-eko-wahyudi-383580374/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@nabilekowahyud1"><img src="https://img.shields.io/badge/-Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:nabilekowahyudi935@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br /><br />
-
+<br />
 <img src="https://komarev.com/ghpvc/?username=NabilEkoWahyudi&label=Profile+Views&color=F97316&style=flat-square" alt="Profile Views" />
 
 </div>
@@ -89,25 +82,6 @@
   <a href="https://github.com/NabilEkoWahyudi?tab=repositories">All repositories</a> ·
   <a href="https://nabilekowahyudi-portfolio.vercel.app/projects">Full project list</a>
 </p>
-
----
-
-<h2 align="center">Experience</h2>
-
-<table align="center">
-  <tr>
-    <td><b>Mar 2026 - Sep 2026</b></td>
-    <td><b>Software Engineer Intern</b>, PT PLN Batam<br /><sub>Built a ServiceDesk chatbot integrated with ManageEngine ServiceDesk Plus.</sub></td>
-  </tr>
-  <tr>
-    <td><b>2025/2026</b></td>
-    <td><b>Chairman</b>, Himpunan Mahasiswa Teknik Informatika<br /><sub>Universitas Putera Batam</sub></td>
-  </tr>
-  <tr>
-    <td><b>2024 - Present</b></td>
-    <td><b>Informatics Student</b>, Universitas Putera Batam<br /><sub>Building personal projects alongside coursework.</sub></td>
-  </tr>
-</table>
 
 ---
 
